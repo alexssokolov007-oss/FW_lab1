@@ -18,8 +18,11 @@ jupyter notebook lab1_ml_pipeline.ipynb
 
 ## Структура
 
-| Файл | Описание |
-|------|----------|
-| `lab1_ml_pipeline.ipynb` | Основной ноутбук с пайплайном |
-| `student_data.csv` | Датасет |
-| `generate_dataset.py` | Скрипт генерации датасета |
+```
+lab1/
+├── lab1_ml_pipeline.ipynb
+├── lab1_ml_pipeline_executed.ipynb
+├── generate_dataset.py
+├── student_data.csv
+└── README.md
+```
